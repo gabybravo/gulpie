@@ -1,25 +1,25 @@
 # gulpie
 Ejercicio guiado de la lección 43: GULP
 
-<h4>Requerimientos Técnicos</h4>
+<h3>Requerimientos Técnicos</h3>
 
 El proyecto fue realizado con las siguientes dependencias NPM:
 
 <h4>Dependencias de Desarrollo</h4>
 <ul>
-<li>Gulp ~v.3.9.</li>
-<li>Gulp-Concat ~v.2.6.1</li>
-<li>Gulp-Minify-CSS ~v.1.2.4</li>
-<li>Gulp-Sass ~v.3.1.0</li>
-<li>Gulp-Uglify ~v.3.0.0</li>
-<li>Gulp-Watch `~v.4.3.11</li>
-<li>Gulp-Watch ~v.0.9.1</li>
+  <li>Gulp ~v.3.9.</li>
+  <li>Gulp-Concat ~v.2.6.1</li>
+  <li>Gulp-Minify-CSS ~v.1.2.4</li>
+  <li>Gulp-Sass ~v.3.1.0</li>
+  <li>Gulp-Uglify ~v.3.0.0</li>
+  <li>Gulp-Watch `~v.4.3.11</li>
+  <li>Gulp-Watch ~v.0.9.1</li>
 </ul>
 <h4>Dependencias de Producción</h4>
-
-jQuery ~v.3.2.1
-Materialize ~v.0.100.1
-
+<ul>
+  <li>jQuery ~v.3.2.1</li>
+  <li>Materialize ~v.0.100.1</li>
+</ul>
 <h4>Levantamiento ambiente de desarrollo</h4>
 <ul>
 <li>Clonar repositorio.</li>
