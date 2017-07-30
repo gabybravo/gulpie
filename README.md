@@ -12,8 +12,8 @@ El proyecto fue realizado con las siguientes dependencias NPM:
   <li>Gulp-Minify-CSS ~v.1.2.4</li>
   <li>Gulp-Sass ~v.3.1.0</li>
   <li>Gulp-Uglify ~v.3.0.0</li>
-  <li>Gulp-Watch `~v.4.3.11</li>
-  <li>Gulp-Watch ~v.0.9.1</li>
+  <li>Gulp-Watch ~v.4.3.11</li>
+  <li>Gulp-Webserver ~v.0.9.1</li>
 </ul>
 <h4>Dependencias de Producción</h4>
 <ul>
